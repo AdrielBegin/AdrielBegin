@@ -1,4 +1,4 @@
-### Hey Brethren!! i'm Adriel Pereira👋🤩
+### Hey Brethren!! i'm Adriel Pereira🤩
 - 🤵 Today I work with SoftExpert Analyst
 - 📫 My email : adriel.pemi@gmail.com
 - 📖 Studying PHP and MySQL

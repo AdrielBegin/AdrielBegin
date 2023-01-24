@@ -1,7 +1,7 @@
 ### Hey Brethren!! i'm Adriel Pereira🤩
 - 🤵 Today I work with development at CREA-MT
 - 📫 My email : adriel.pemi@gmail.com
-- 📖 Studying React, TypeScript and Node.js
+
  ##
 <div align="center">
   <a href="https://github.com/AdrielBegin">
